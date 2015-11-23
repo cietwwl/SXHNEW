@@ -1,0 +1,10 @@
+[2013-12-26 17:31:24,569] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 227
+[2013-12-26 17:31:48,443] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23500
+[2013-12-26 17:32:20,977] [INFO] [performance] - [Processor.run]451
+[2013-12-26 17:32:25,906] [INFO] [performance] - [Processor.run]548
+[2013-12-26 17:32:26,092] [INFO] [performance] - [Processor.run]185
+[2013-12-26 17:32:27,147] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]700
+[2013-12-26 17:32:27,147] [INFO] [performance] - [Processor.run]699
+[2013-12-26 17:32:27,179] [INFO] [performance] - [MsgID_Fee_Info][54658][108015][喀举咯途]32
+[2013-12-26 17:32:34,326] [INFO] [performance] - [MsgID_Get_TransMaps][54658][108015][喀举咯途]53
+[2013-12-26 17:35:03,851] [INFO] [performance] - [MsgID_Get_TransToMap][54658][108015][喀举咯途]37

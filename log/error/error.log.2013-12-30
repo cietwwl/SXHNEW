@@ -1,0 +1,24 @@
+[Log.java,152][2013-12-30 14:26:46,781] [ERROR] [error] - [ScheduleManager]
+java.lang.NullPointerException
+	at com.joyveb.tlol.RedisMethod.getBossLevel(RedisMethod.java:40)
+	at com.joyveb.tlol.boss.BossService.fight(BossService.java:243)
+	at com.joyveb.tlol.schedule.OnTheSeconedSchedule.execute(OnTheSeconedSchedule.java:104)
+	at com.joyveb.tlol.schedule.ScheduleManager.execute(ScheduleManager.java:39)
+	at com.joyveb.tlol.ProcessCenter$Processor.run(ProcessCenter.java:147)
+[Log.java,144][2013-12-30 14:28:04,662] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\lua\Model\Task\Category\Boss.lua】失败！
+[Log.java,119][2013-12-30 14:28:06,170] [WARN] [error] - [Lua]...\workspace\SXHNEW\lua\Environment\Lua\metatableG.lua    line:5
+[Log.java,119][2013-12-30 14:28:06,171] [WARN] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\Task\Task.lua    line:129
+[Log.java,119][2013-12-30 14:28:06,171] [WARN] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\Resource.lua    line:34
+[Log.java,119][2013-12-30 14:28:06,171] [WARN] [error] - [Lua]...pace\SXHNEW\..\tempResource\Task\Boss\Boss876543.lua    line:17
+[Log.java,119][2013-12-30 14:28:06,171] [WARN] [error] - [Lua]访问未定义的全局变量_Boss
+[Log.java,144][2013-12-30 14:28:06,172] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\tempResource\Task\Boss\Boss876543.lua】失败！
+[Log.java,144][2013-12-30 14:48:10,547] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\tempResource\NPC\npc188.lua】失败！
+[Log.java,119][2013-12-30 16:42:47,442] [WARN] [error] - [Lua]...\workspace\SXHNEW\lua\Environment\Lua\metatableG.lua    line:5
+[Log.java,119][2013-12-30 16:42:47,442] [WARN] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\Task\Task.lua    line:131
+[Log.java,119][2013-12-30 16:42:47,442] [WARN] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\Resource.lua    line:34
+[Log.java,119][2013-12-30 16:42:47,442] [WARN] [error] - [Lua]...NEW\..\tempResource\Task\NoFreeze\NoFreeze876542.lua    line:17
+[Log.java,119][2013-12-30 16:42:47,442] [WARN] [error] - [Lua]访问未定义的全局变量_NoFreeze
+[Log.java,144][2013-12-30 16:42:47,442] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\tempResource\Task\NoFreeze\NoFreeze876542.lua】失败！
+[Log.java,144][2013-12-30 16:42:57,404] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\tempResource\Task\NoFreeze\NoFreeze876542.lua】失败！
+[Log.java,144][2013-12-30 16:46:14,870] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\tempResource\Task\NoFreeze\NoFreeze876542.lua】失败！
+[Log.java,144][2013-12-30 16:46:50,515] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\tempResource\Task\NoFreeze\NoFreeze876542.lua】失败！

@@ -1,0 +1,138 @@
+[2014-01-14 10:45:24,793] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 231
+[2014-01-14 10:45:48,929] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23761
+[2014-01-14 10:46:09,748] [INFO] [performance] - [Processor.run]509
+[2014-01-14 10:46:14,240] [INFO] [performance] - [Processor.run]325
+[2014-01-14 10:46:14,342] [INFO] [performance] - [Processor.run]101
+[2014-01-14 10:46:14,967] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]212
+[2014-01-14 10:46:14,967] [INFO] [performance] - [Processor.run]220
+[2014-01-14 10:48:31,141] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]34
+[2014-01-14 10:54:05,470] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 187
+[2014-01-14 10:54:29,588] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23900
+[2014-01-14 10:54:51,666] [INFO] [performance] - [MsgID_Enter_Map][54658][1000001][866889]586
+[2014-01-14 10:54:51,666] [INFO] [performance] - [Processor.run]586
+[2014-01-14 10:58:15,716] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 171
+[2014-01-14 10:58:39,897] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23915
+[2014-01-14 10:59:08,940] [INFO] [performance] - [MsgID_Enter_Map][54658][108082][533554]552
+[2014-01-14 10:59:08,940] [INFO] [performance] - [Processor.run]552
+[2014-01-14 11:06:06,559] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 156
+[2014-01-14 11:06:30,787] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23915
+[2014-01-14 11:06:55,981] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]528
+[2014-01-14 11:06:55,981] [INFO] [performance] - [Processor.run]528
+[2014-01-14 11:07:09,768] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]36
+[2014-01-14 11:11:09,656] [INFO] [performance] - [Processor.run]261
+[2014-01-14 11:11:12,410] [INFO] [performance] - [Processor.run]110
+[2014-01-14 11:12:19,821] [INFO] [performance] - [Processor.run]110
+[2014-01-14 11:15:53,189] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 193
+[2014-01-14 11:16:16,853] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23365
+[2014-01-14 11:16:41,827] [INFO] [performance] - [MsgID_Enter_Map][54658][1000001][测试被]520
+[2014-01-14 11:16:41,827] [INFO] [performance] - [Processor.run]520
+[2014-01-14 11:18:31,813] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 209
+[2014-01-14 11:18:55,441] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23331
+[2014-01-14 11:19:11,362] [INFO] [performance] - [MsgID_Enter_Map][54658][108082][533554]518
+[2014-01-14 11:19:11,362] [INFO] [performance] - [Processor.run]518
+[2014-01-14 11:34:29,599] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 192
+[2014-01-14 11:34:53,161] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23336
+[2014-01-14 11:35:49,919] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 178
+[2014-01-14 11:36:13,589] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23354
+[2014-01-14 11:37:19,671] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]559
+[2014-01-14 11:37:19,671] [INFO] [performance] - [Processor.run]559
+[2014-01-14 11:42:43,321] [INFO] [performance] - [Processor.run]121
+[2014-01-14 12:21:39,660] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 200
+[2014-01-14 12:22:03,231] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23299
+[2014-01-14 12:22:27,611] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]652
+[2014-01-14 12:22:27,611] [INFO] [performance] - [Processor.run]652
+[2014-01-14 12:24:46,285] [INFO] [performance] - [Processor.run]131
+[2014-01-14 12:24:51,096] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 203
+[2014-01-14 12:25:14,692] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23296
+[2014-01-14 12:25:49,127] [INFO] [performance] - [Processor.run]102
+[2014-01-14 12:25:52,302] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]109
+[2014-01-14 12:25:52,302] [INFO] [performance] - [Processor.run]109
+[2014-01-14 12:30:00,347] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 292
+[2014-01-14 12:30:23,892] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23296
+[2014-01-14 12:30:58,246] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]528
+[2014-01-14 12:30:58,246] [INFO] [performance] - [Processor.run]529
+[2014-01-14 12:31:05,189] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]49
+[2014-01-14 12:32:15,319] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 201
+[2014-01-14 12:32:38,923] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23300
+[2014-01-14 12:32:58,293] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]524
+[2014-01-14 12:32:58,294] [INFO] [performance] - [Processor.run]524
+[2014-01-14 12:33:04,892] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]45
+[2014-01-14 12:35:01,158] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]42
+[2014-01-14 13:21:04,453] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 291
+[2014-01-14 13:21:27,978] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23295
+[2014-01-14 13:22:07,465] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]135
+[2014-01-14 13:22:07,465] [INFO] [performance] - [Processor.run]135
+[2014-01-14 13:22:43,605] [INFO] [performance] - [Processor.run]143
+[2014-01-14 13:27:45,895] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 196
+[2014-01-14 13:28:09,572] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23397
+[2014-01-14 13:28:25,434] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]620
+[2014-01-14 13:28:25,434] [INFO] [performance] - [Processor.run]620
+[2014-01-14 13:30:01,215] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 328
+[2014-01-14 13:30:33,694] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 306
+[2014-01-14 13:30:57,363] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23543
+[2014-01-14 13:34:48,576] [INFO] [performance] - [Processor.run]147
+[2014-01-14 13:34:52,848] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]1047
+[2014-01-14 13:34:52,849] [INFO] [performance] - [Processor.run]1048
+[2014-01-14 13:35:01,294] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]1027
+[2014-01-14 13:35:01,294] [INFO] [performance] - [Processor.run]1027
+[2014-01-14 13:35:16,496] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]1016
+[2014-01-14 13:35:16,497] [INFO] [performance] - [Processor.run]1017
+[2014-01-14 13:35:29,757] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]1016
+[2014-01-14 13:35:29,757] [INFO] [performance] - [Processor.run]1016
+[2014-01-14 13:35:52,901] [INFO] [performance] - [Processor.run]109
+[2014-01-14 13:36:19,481] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]1461
+[2014-01-14 13:36:19,481] [INFO] [performance] - [Processor.run]1460
+[2014-01-14 13:43:09,752] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]92
+[2014-01-14 13:44:28,990] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]1027
+[2014-01-14 13:44:28,990] [INFO] [performance] - [Processor.run]1027
+[2014-01-14 14:31:53,647] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 238
+[2014-01-14 14:32:17,603] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23652
+[2014-01-14 14:32:30,755] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]727
+[2014-01-14 14:32:30,762] [INFO] [performance] - [Processor.run]734
+[2014-01-14 14:33:21,117] [INFO] [performance] - [MsgID_Enter_Map][54658][108082][533554]42
+[2014-01-14 14:40:28,068] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 216
+[2014-01-14 14:40:51,713] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23438
+[2014-01-14 14:40:56,904] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select * from ( select nid, snick, nlevel, nexp, ngold, ncharm, nmark, nevil, nhonor  from tbl_tianlong_role_srv000  where nid != 1 and nid != 2 and nevil> 0 order by nevil desc) where rownum <= 10## ] 150
+[2014-01-14 14:40:56,974] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select * from ( select nid, snick, nlevel, nexp, ngold, ncharm, nmark, nevil, nhonor  from tbl_tianlong_role_srv000  where nid != 1 and nid != 2 and nhonor> 0 order by nhonor desc) where rownum <= 10## ] 219
+[2014-01-14 14:41:07,947] [INFO] [performance] - [MsgID_Enter_Map][54658][108125][克爱嘎]696
+[2014-01-14 14:41:07,947] [INFO] [performance] - [Processor.run]696
+[2014-01-14 14:46:12,644] [INFO] [performance] - [MsgID_Manage_Move][54658][108125][克爱嘎]42
+[2014-01-14 15:06:25,482] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 309
+[2014-01-14 15:06:49,172] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23485
+[2014-01-14 15:07:08,061] [INFO] [performance] - [MsgID_Enter_Map][54658][108082][533554]207
+[2014-01-14 15:07:08,061] [INFO] [performance] - [Processor.run]207
+[2014-01-14 15:07:22,925] [INFO] [performance] - [Processor.run]138
+[2014-01-14 15:11:43,122] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 302
+[2014-01-14 15:12:06,809] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23474
+[2014-01-14 15:12:12,443] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select * from ( select nid, snick, nlevel, nexp, ngold, ncharm, nmark, nevil, nhonor  from tbl_tianlong_role_srv000  where nid != 1 and nid != 2 and nevil> 0 order by nevil desc) where rownum <= 10## ] 113
+[2014-01-14 15:12:12,458] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select * from ( select nid, snick, nlevel, nexp, ngold, ncharm, nmark, nevil, nhonor  from tbl_tianlong_role_srv000  where nid != 1 and nid != 2 and ncharm> 0 order by ncharm desc) where rownum <= 10## ] 135
+[2014-01-14 15:12:12,515] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select loginbulletin from tbl_tianlong_lbulletin_srv000## ] 139
+[2014-01-14 15:12:12,521] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select * from ( select nid, snick, nlevel, nexp, ngold, ncharm, nmark, nevil, nhonor  from tbl_tianlong_role_srv000  where nid != 1 and nid != 2 and nmark> 0 order by nmark desc) where rownum <= 10## ] 197
+[2014-01-14 15:12:12,521] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select * from ( select nid, snick, nlevel, nexp, ngold, ncharm, nmark, nevil, nhonor  from tbl_tianlong_role_srv000  where nid != 1 and nid != 2 and nhonor> 0 order by nhonor desc) where rownum <= 10## ] 191
+[2014-01-14 15:12:12,531] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, nowner, ntimeOut, nreservePrice, nbuyoutPrice, nbidding, nroleid, ntid, nuid, nstorage, sitemStr from tbl_tlol_auction_srv000## ] 199
+[2014-01-14 15:12:12,534] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select * from tbl_tianlong_mailnotice_srv000## ] 158
+[2014-01-14 15:12:14,158] [INFO] [performance] - [Processor.run]127
+[2014-01-14 15:12:19,916] [INFO] [performance] - [MsgID_Enter_Map][54658][108082][533554]970
+[2014-01-14 15:12:19,916] [INFO] [performance] - [Processor.run]969
+[2014-01-14 15:13:24,747] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108082][533554]183
+[2014-01-14 15:13:24,747] [INFO] [performance] - [Processor.run]183
+[2014-01-14 15:43:19,343] [INFO] [performance] - [MsgID_Manage_Move][54658][108082][533554]47
+[2014-01-14 16:11:11,924] [INFO] [performance] - [MsgID_Manage_Move][54658][108082][533554]32
+[2014-01-14 16:16:53,915] [INFO] [performance] - [Processor.run]172
+[2014-01-14 16:19:19,978] [INFO] [performance] - [MsgID_Manage_Move][54658][108082][533554]75
+[2014-01-14 17:10:06,859] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update tbl_tianlong_role_srv000 set snick = ?, ngroup = ?, namini = ?, nlevel = ?, ngold = ?, nmark = ?, nlastmap = ?, nlastmapx = ?, nlastmapy = ?, nred = ?, nblue = ?, nstrength = ?, nagility = ?, nintellect = ?, nstamina = ?, nonlinesec = ?, nexp = ?, ctask = ?, sfriends = ?, sfoes = ?, skills = ?, citems = ?, sbuffs = ?, SEPITHET = ?, NCOMMUNITY = ?, dlogoff = ?, ncharm = ?, ngangid = ?, njobtitle = ?, NTOTALKILLNUM = ?, NKILLNUM = ?, NRESETKILLNUMTIME = ?, SRACINGMARK = ?, NHONOR = ?, NEVIL = ?, NSNEAKATTACKNUM = ?, NLASTBATTLETIME = ? ,MARRY = ?, MASTER=? ,APPRENTICE=? , APPDELMASTER=?,MARRYRINGTIME = ? , REMOVEMASTERTIME = ?,REMOVEAPPTIME = ?,SENEMIES = ?,isNotFatwa = ? where nid = ?## ] 7056122
+[2014-01-14 17:10:06,859] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update tbl_tianlong_role_srv000 set snick = ?, ngroup = ?, namini = ?, nlevel = ?, ngold = ?, nmark = ?, nlastmap = ?, nlastmapx = ?, nlastmapy = ?, nred = ?, nblue = ?, nstrength = ?, nagility = ?, nintellect = ?, nstamina = ?, nonlinesec = ?, nexp = ?, ctask = ?, sfriends = ?, sfoes = ?, skills = ?, citems = ?, sbuffs = ?, SEPITHET = ?, NCOMMUNITY = ?, dlogoff = ?, ncharm = ?, ngangid = ?, njobtitle = ?, NTOTALKILLNUM = ?, NKILLNUM = ?, NRESETKILLNUMTIME = ?, SRACINGMARK = ?, NHONOR = ?, NEVIL = ?, NSNEAKATTACKNUM = ?, NLASTBATTLETIME = ? ,MARRY = ?, MASTER=? ,APPRENTICE=? , APPDELMASTER=?,MARRYRINGTIME = ? , REMOVEMASTERTIME = ?,REMOVEAPPTIME = ?,SENEMIES = ?,isNotFatwa = ? where nid = ?## ] 5988445
+[2014-01-14 17:10:06,859] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update tbl_tianlong_role_srv000 set snick = ?, ngroup = ?, namini = ?, nlevel = ?, ngold = ?, nmark = ?, nlastmap = ?, nlastmapx = ?, nlastmapy = ?, nred = ?, nblue = ?, nstrength = ?, nagility = ?, nintellect = ?, nstamina = ?, nonlinesec = ?, nexp = ?, ctask = ?, sfriends = ?, sfoes = ?, skills = ?, citems = ?, sbuffs = ?, SEPITHET = ?, NCOMMUNITY = ?, dlogoff = ?, ncharm = ?, ngangid = ?, njobtitle = ?, NTOTALKILLNUM = ?, NKILLNUM = ?, NRESETKILLNUMTIME = ?, SRACINGMARK = ?, NHONOR = ?, NEVIL = ?, NSNEAKATTACKNUM = ?, NLASTBATTLETIME = ? ,MARRY = ?, MASTER=? ,APPRENTICE=? , APPDELMASTER=?,MARRYRINGTIME = ? , REMOVEMASTERTIME = ?,REMOVEAPPTIME = ?,SENEMIES = ?,isNotFatwa = ? where nid = ?## ] 3828305
+[2014-01-14 17:10:06,859] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update tbl_tianlong_role_srv000 set snick = ?, ngroup = ?, namini = ?, nlevel = ?, ngold = ?, nmark = ?, nlastmap = ?, nlastmapx = ?, nlastmapy = ?, nred = ?, nblue = ?, nstrength = ?, nagility = ?, nintellect = ?, nstamina = ?, nonlinesec = ?, nexp = ?, ctask = ?, sfriends = ?, sfoes = ?, skills = ?, citems = ?, sbuffs = ?, SEPITHET = ?, NCOMMUNITY = ?, dlogoff = ?, ncharm = ?, ngangid = ?, njobtitle = ?, NTOTALKILLNUM = ?, NKILLNUM = ?, NRESETKILLNUMTIME = ?, SRACINGMARK = ?, NHONOR = ?, NEVIL = ?, NSNEAKATTACKNUM = ?, NLASTBATTLETIME = ? ,MARRY = ?, MASTER=? ,APPRENTICE=? , APPDELMASTER=?,MARRYRINGTIME = ? , REMOVEMASTERTIME = ?,REMOVEAPPTIME = ?,SENEMIES = ?,isNotFatwa = ? where nid = ?## ] 4908414
+[2014-01-14 17:10:06,860] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update tbl_tianlong_role_srv000 set snick = ?, ngroup = ?, namini = ?, nlevel = ?, ngold = ?, nmark = ?, nlastmap = ?, nlastmapx = ?, nlastmapy = ?, nred = ?, nblue = ?, nstrength = ?, nagility = ?, nintellect = ?, nstamina = ?, nonlinesec = ?, nexp = ?, ctask = ?, sfriends = ?, sfoes = ?, skills = ?, citems = ?, sbuffs = ?, SEPITHET = ?, NCOMMUNITY = ?, dlogoff = ?, ncharm = ?, ngangid = ?, njobtitle = ?, NTOTALKILLNUM = ?, NKILLNUM = ?, NRESETKILLNUMTIME = ?, SRACINGMARK = ?, NHONOR = ?, NEVIL = ?, NSNEAKATTACKNUM = ?, NLASTBATTLETIME = ? ,MARRY = ?, MASTER=? ,APPRENTICE=? , APPDELMASTER=?,MARRYRINGTIME = ? , REMOVEMASTERTIME = ?,REMOVEAPPTIME = ?,SENEMIES = ?,isNotFatwa = ? where nid = ?## ] 2748194
+[2014-01-14 17:10:06,891] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update tbl_tianlong_role_srv000 set snick = ?, ngroup = ?, namini = ?, nlevel = ?, ngold = ?, nmark = ?, nlastmap = ?, nlastmapx = ?, nlastmapy = ?, nred = ?, nblue = ?, nstrength = ?, nagility = ?, nintellect = ?, nstamina = ?, nonlinesec = ?, nexp = ?, ctask = ?, sfriends = ?, sfoes = ?, skills = ?, citems = ?, sbuffs = ?, SEPITHET = ?, NCOMMUNITY = ?, dlogoff = ?, ncharm = ?, ngangid = ?, njobtitle = ?, NTOTALKILLNUM = ?, NKILLNUM = ?, NRESETKILLNUMTIME = ?, SRACINGMARK = ?, NHONOR = ?, NEVIL = ?, NSNEAKATTACKNUM = ?, NLASTBATTLETIME = ? ,MARRY = ?, MASTER=? ,APPRENTICE=? , APPDELMASTER=?,MARRYRINGTIME = ? , REMOVEMASTERTIME = ?,REMOVEAPPTIME = ?,SENEMIES = ?,isNotFatwa = ? where nid = ?## ] 588138
+[2014-01-14 17:10:06,921] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update tbl_tianlong_role_srv000 set snick = ?, ngroup = ?, namini = ?, nlevel = ?, ngold = ?, nmark = ?, nlastmap = ?, nlastmapx = ?, nlastmapy = ?, nred = ?, nblue = ?, nstrength = ?, nagility = ?, nintellect = ?, nstamina = ?, nonlinesec = ?, nexp = ?, ctask = ?, sfriends = ?, sfoes = ?, skills = ?, citems = ?, sbuffs = ?, SEPITHET = ?, NCOMMUNITY = ?, dlogoff = ?, ncharm = ?, ngangid = ?, njobtitle = ?, NTOTALKILLNUM = ?, NKILLNUM = ?, NRESETKILLNUMTIME = ?, SRACINGMARK = ?, NHONOR = ?, NEVIL = ?, NSNEAKATTACKNUM = ?, NLASTBATTLETIME = ? ,MARRY = ?, MASTER=? ,APPRENTICE=? , APPDELMASTER=?,MARRYRINGTIME = ? , REMOVEMASTERTIME = ?,REMOVEAPPTIME = ?,SENEMIES = ?,isNotFatwa = ? where nid = ?## ] 1668172
+[2014-01-14 17:35:01,650] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 241
+[2014-01-14 17:35:25,209] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23355
+[2014-01-14 17:35:42,927] [INFO] [performance] - [MsgID_Enter_Map][54658][108082][533554]176
+[2014-01-14 17:35:42,927] [INFO] [performance] - [Processor.run]176
+[2014-01-14 17:36:28,172] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108082][533554]362
+[2014-01-14 17:36:28,172] [INFO] [performance] - [Processor.run]362
+[2014-01-14 19:52:02,401] [INFO] [performance] - [MsgID_Enter_Map][54658][108125][克爱嘎]88
+[2014-01-14 20:00:31,395] [INFO] [performance] - [MsgID_Manage_Move][54658][108125][克爱嘎]46
+[2014-01-14 20:01:37,338] [INFO] [performance] - [MsgID_Manage_Move][54658][108125][克爱嘎]63

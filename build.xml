@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="TLOL_NO_JBOSS">
+    <property environment="env"/>
+    <property name="GAME_HOME" value="../"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+    <property name="source" value="1.6"/>
+	<property name="lib" value="lib"/>
+
+	
+	<pathconvert property="libs.project" pathsep=" ">
+		<mapper>
+    		<chainedmapper>
+	        <!-- remove absolute path -->
+	        <flattenmapper />
+	         <!-- add lib/ prefix -->
+	         <globmapper from="*" to="lib/*" />
+	        </chainedmapper>
+	    </mapper>
+		<path>
+	       <!-- lib.home contains all jar files, in several subdirectories -->
+	      <fileset dir="${lib}">
+	         <include name="**/*.jar" />
+	      </fileset>
+		</path>
+	</pathconvert>
+	
+    <path id="TLOL_NO_JBOSS.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="lib/luajava-1.1.jar"/>
+    	<!-- <pathelement location="lib/c3p0-0.9.1.2.jar"/> -->
+    	<!-- <pathelement location="lib/c3p0-oracle-thin-extras-0.9.1.2.jar"/> -->
+        <pathelement location="lib/log4j-1.2.16.jar"/>
+        <pathelement location="lib/mx4j-tools.jar"/>
+        <pathelement location="lib/mx4j.jar"/>
+    	<!-- <pathelement location="lib/commons-beanutils-1.7.0.jar"/> -->
+    	<!-- <pathelement location="lib/commons-chain-1.1.jar"/> -->
+    	<!-- <pathelement location="lib/commons-codec-1.3.jar"/> -->
+    	<!-- <pathelement location="lib/commons-collections-3.2.1.jar"/> -->
+    	<!-- <pathelement location="lib/commons-digester-1.8.jar"/> -->
+    	<pathelement location="lib/commons-httpclient.jar"/>
+    	<!-- <pathelement location="lib/commons-lang-2.4.jar"/> -->
+    	<pathelement location="lib/commons-logging-1.1.1.jar"/>
+    	<!-- <pathelement location="lib/commons-logging.jar"/> -->
+    	<!-- <pathelement location="lib/ibatis-common-2.jar"/> -->
+    	<!-- <pathelement location="lib/ibatis-dao-2.jar"/> -->
+    	<!-- <pathelement location="lib/ibatis-sqlmap-2.jar"/> -->
+    	<!-- <pathelement location="lib/log4j-1.2.14.jar"/> -->
+    	<pathelement location="lib/ojdbc6.jar"/>
+    	<pathelement location="lib/bonecp-0.7.0.jar"/>
+    	<pathelement location="lib/slf4j-api-1.6.1.jar"/>
+    	<pathelement location="lib/slf4j-nop-1.6.1.jar"/>
+    	<pathelement location="lib/guava-r07.jar"/>
+    	<pathelement location="lib/jackson-all-1.6.2.jar"/>
+    	<pathelement location="lib/mail.jar"/>
+		<pathelement location="lib/commons-pool-1.6.jar" />
+		<pathelement location="lib/jedis-2.0.0.jar" />
+    </path>
+	
+    <target name="init">
+    	<delete dir="bin"/>
+    	<delete dir="../lua"/>
+    	<delete dir="../Resource"/>
+    	<delete dir="../gameRes"/>
+    	<delete dir="../gameRes-ky"/>
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="../lua">
+            <fileset dir="lua">
+                <include name="**/*.lua"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="../Resource">
+            <fileset dir="Resource">
+                <include name="**/*.lua"/>
+            </fileset>
+        </copy>
+        <copy includeemptydirs="false" todir="../gameRes">
+            <fileset dir="gameRes">
+                <include name="**/*-*"/>
+            </fileset>
+        </copy>
+    	<copy includeemptydirs="false" todir="../gameRes-ky">
+            <fileset dir="gameRes-ky">
+                <include name="**/*-*"/>
+            </fileset>
+    	</copy>
+    </target>
+
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+            <src path="src"/>
+        	<compilerarg line="-encoding UTF-8 "/> 
+            <classpath refid="TLOL_NO_JBOSS.classpath"/>
+        </javac>
+    </target>
+	
+	<target name="bulid-jar" depends="build-project">
+		<jar destfile="../TLOL.jar" basedir="bin">  
+			<manifest>
+				<attribute name="Main-class" value="com.joyveb.tlol.GameLoader"/>
+				<attribute name="Class-Path" value="${libs.project}"/>
+			</manifest>
+		</jar>
+	</target>
+
+	
+    <target name="run" depends="bulid-jar">
+    	 <echo message="build finished!!"/>
+    </target>
+	
+	<!-- 入口 -->
+	<target depends="run" name="build"/>
+	
+	
+	<!-- =================================ant lua脚本分割线===================================-->
+	
+	<target name="initLua">
+	        <delete dir="../lua"/>
+	</target>
+	
+	<!-- ant lua 入口-->
+    <target name="lua" depends="initLua">
+    	<copy includeemptydirs="false" todir="../lua">
+    		<fileset dir="lua">
+    			<include name="**/*.lua"/>
+    		</fileset>
+    	</copy>
+    </target>
+	
+	<!-- =================================ant res脚本分割线===================================-->
+	
+	<target name="initRes">
+	        <delete dir="../Resource"/>
+	</target>
+	
+	<!-- ant res 入口-->
+    <target name="res" depends="initRes">
+    	<copy includeemptydirs="false" todir="../Resource">
+    		<fileset dir="Resource">
+    			<include name="**/*.lua"/>
+    		</fileset>
+    	</copy>
+    </target>
+	
+</project>

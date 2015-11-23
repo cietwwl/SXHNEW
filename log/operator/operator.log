@@ -1,0 +1,3 @@
+54658#$喀举咯途#$108015#$108015#$3#$普天同庆礼包#$请查收！#$#$1#$0#$0#$2014-09-03 11:32:01#$srv000#$#$
+[dell all mail]delete from Tbl_Tianlong_Mail_srv000 t where t.id = ? or t.id = ? or t.id = ? or t.id = ? or t.id = ? or t.id = ?
+[dell all mail]delete from Tbl_Tianlong_Mail_srv000 t where t.id = ?

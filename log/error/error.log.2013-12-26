@@ -1,0 +1,13 @@
+[Log.java,144][2013-12-26 17:32:34,274] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2013-12-26 17:32:34,311] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua    line:5
+[Log.java,144][2013-12-26 17:32:34,312] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua:5: attempt to index local 'area' (a nil value)
+[Log.java,144][2013-12-26 17:32:34,312] [ERROR] [error] - [GetTransMaps]nil
+[Log.java,119][2013-12-26 17:33:44,259] [WARN] [error] - [Lua]...\workspace\SXHNEW\lua\Environment\Lua\metatableG.lua    line:5
+[Log.java,119][2013-12-26 17:33:44,260] [WARN] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\Resource.lua    line:30
+[Log.java,119][2013-12-26 17:33:44,260] [WARN] [error] - [Lua]...eclipse\workspace\SXHNEW\..\testDongge\Tran\Tran.lua    line:1
+[Log.java,119][2013-12-26 17:33:44,260] [WARN] [error] - [Lua]访问未定义的全局变量_Tran
+[Log.java,144][2013-12-26 17:33:44,261] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\testDongge\Tran\Tran.lua】失败！
+[Log.java,119][2013-12-26 17:34:24,672] [WARN] [error] - [Lua]...\workspace\SXHNEW\lua\Environment\Lua\metatableG.lua    line:5
+[Log.java,119][2013-12-26 17:34:24,672] [WARN] [error] - [Lua]...eclipse\workspace\SXHNEW\..\testDongge\Tran\Tran.lua    line:1
+[Log.java,119][2013-12-26 17:34:24,673] [WARN] [error] - [Lua]访问未定义的全局变量TranSet
+[Log.java,144][2013-12-26 17:34:24,673] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\testDongge\Tran\Tran.lua】失败！

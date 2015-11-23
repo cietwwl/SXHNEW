@@ -1,0 +1,36 @@
+[2014-08-16 15:12:19,684] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 236
+[2014-08-16 15:12:43,636] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23546
+[2014-08-16 15:13:04,303] [INFO] [performance] - [Processor.run]356
+[2014-08-16 15:13:08,289] [INFO] [performance] - [Processor.run]322
+[2014-08-16 15:13:08,401] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select t1.*, t2.snick from tbl_tianlong_mail_srv000 t1, tbl_tianlong_role_srv000 t2 where t1.receiver_id = t2.nid and t1.is_paymail = '1'  and t1.sender_id = ?## ] 137
+[2014-08-16 15:13:08,473] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select t1.* from tbl_tianlong_mail_srv000 t1 where t1.receiver_id = ? order by t1.SEND_TIME desc## ] 210
+[2014-08-16 15:13:08,939] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]347
+[2014-08-16 15:13:08,940] [INFO] [performance] - [Processor.run]410
+[2014-08-16 15:13:09,377] [INFO] [performance] - [MsgID_Enter_Map_Start][54658][108015][喀举咯途]41
+[2014-08-16 15:13:23,940] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]32
+[2014-08-16 15:15:39,324] [INFO] [performance] - [Processor.run]158
+[2014-08-16 15:18:24,174] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]23542
+[2014-08-16 15:18:24,174] [INFO] [performance] - [Processor.run]23541
+[2014-08-16 15:19:04,717] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]4174
+[2014-08-16 15:19:04,717] [INFO] [performance] - [Processor.run]4174
+[2014-08-16 15:25:50,481] [INFO] [performance] - [Processor.run]170
+[2014-08-16 15:25:50,496] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##insert into tbl_tianlong_logging_srv000(nid, nuid, nrid, dlogon, dlogoff) values(seq_tianlong_logging.nextval, ?, ?, ?, ?)## ] 155
+[2014-08-16 15:27:08,964] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]8110
+[2014-08-16 15:27:08,964] [INFO] [performance] - [Processor.run]8110
+[2014-08-16 15:33:03,242] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]2572
+[2014-08-16 15:33:03,248] [INFO] [performance] - [Processor.run]2578
+[2014-08-16 15:53:16,533] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 259
+[2014-08-16 15:53:40,142] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23325
+[2014-08-16 15:54:15,660] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]184
+[2014-08-16 15:54:15,660] [INFO] [performance] - [Processor.run]184
+[2014-08-16 15:55:13,143] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]11806
+[2014-08-16 15:55:13,144] [INFO] [performance] - [Processor.run]11806
+[2014-08-16 15:56:10,339] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]9071
+[2014-08-16 15:56:10,339] [INFO] [performance] - [Processor.run]9071
+[2014-08-16 15:57:06,702] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]5540
+[2014-08-16 15:57:06,703] [INFO] [performance] - [Processor.run]5541
+[2014-08-16 15:58:09,287] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]8037
+[2014-08-16 15:58:09,287] [INFO] [performance] - [Processor.run]8038
+[2014-08-16 15:59:09,270] [INFO] [performance] - [MsgID_Hello_Resp][54658][108015][喀举咯途]8101
+[2014-08-16 15:59:09,271] [INFO] [performance] - [Processor.run]8102
+[2014-08-16 15:59:50,081] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 271

@@ -1,0 +1,4 @@
+[2014-01-10 14:58:47,181] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 251
+[2014-01-10 14:59:11,003] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23514
+[2014-01-10 15:04:12,992] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 369
+[2014-01-10 15:04:36,394] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23298

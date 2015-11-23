@@ -1,0 +1,7 @@
+[Log.java,144][2014-01-15 16:37:37,528] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\lua\Model\Task\Category\ZhuanFu.lua】失败！
+[Log.java,119][2014-01-15 16:37:39,591] [WARN] [error] - [Lua]...\workspace\SXHNEW\lua\Environment\Lua\metatableG.lua    line:5
+[Log.java,119][2014-01-15 16:37:39,593] [WARN] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\Task\Task.lua    line:132
+[Log.java,119][2014-01-15 16:37:39,593] [WARN] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\Resource.lua    line:34
+[Log.java,119][2014-01-15 16:37:39,594] [WARN] [error] - [Lua]...HNEW\..\tempResource\Task\ZhuanFu\ZhuanFu9000008.lua    line:27
+[Log.java,119][2014-01-15 16:37:39,596] [WARN] [error] - [Lua]访问未定义的全局变量_ZhuanFu
+[Log.java,144][2014-01-15 16:37:39,596] [ERROR] [error] - [loadLua]加载【D:\eclipse\workspace\SXHNEW\..\tempResource\Task\ZhuanFu\ZhuanFu9000008.lua】失败！

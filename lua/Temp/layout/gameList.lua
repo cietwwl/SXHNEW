@@ -1,0 +1,92 @@
+Actions.gameList.layout={
+	title = [=[小游戏列表]=],
+	x = 0,
+	y = 0,
+	width = 100,
+	height = 100,
+	
+	tags = {
+		{
+			type = TagType.input,
+			subtype = TagSubType.submit,
+			name = 'openBox',
+			value = [=[开金币宝箱]=],
+			action = 'openBox',
+			x = 85,
+			y = 50,
+			width = 70,
+			height = 18,
+		},
+		{
+			type = TagType.input,
+			subtype = TagSubType.submit,
+			name = 'openYuanbaoBox',
+			value = [=[开元宝宝箱]=],
+			action = 'openYuanbaoBox',
+			x = 85,
+			y = 90,
+			width = 70,
+			height = 18,
+		},
+		
+		{
+			type = TagType.input,
+			subtype = TagSubType.submit,
+			name = 'cycles',
+			value = [=[老虎棒子鸡]=],
+			action = 'cycles',
+			x = 85,
+			y = 130,
+			width = 70,
+			height = 18,
+		},
+		
+		{
+			type = TagType.input,
+			subtype = TagSubType.submit,
+			name = 'guess',
+			value = [=[猜猜看]=],
+			action = 'guess',
+			x = 85,
+			y = 170,
+			width = 70,
+			height = 18,
+		},
+		
+		{
+			type = TagType.input,
+			subtype = TagSubType.submit,
+			name = 'betAccount',
+			value = [=[元宝赌数]=],
+			action = 'betAccount',
+			x = 85,
+			y = 210,
+			width = 70,
+			height = 18,
+		},
+		
+		{
+			type = TagType.input,
+			subtype = TagSubType.submit,
+			name = 'everydayAward',
+			value = [=[每日开奖]=],
+			action = 'everydayAward',
+			x = 85,
+			y = 250,
+			width = 70,
+			height = 18,
+		},
+
+		{
+			type = TagType.input,
+			subtype = TagSubType.cancle,
+			name = 'gameListCancle',
+			value = [=[退出]=],
+			action = 'gameListCancle',
+			x = 174,
+			y = 295,
+			width = 60,
+			height = 18,
+		},
+	}
+}

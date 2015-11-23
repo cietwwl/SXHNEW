@@ -1,0 +1,601 @@
+[Log.java,144][2014-01-14 10:46:14,928] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 10:46:14,935] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 10:46:14,936] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 10:46:14,936] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 10:46:14,936] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 10:46:14,967] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 10:51:47,434] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 10:51:47,435] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 10:51:47,435] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 10:51:47,435] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 10:51:47,435] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 10:51:47,436] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 10:53:05,688] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 10:53:05,689] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 10:53:05,689] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 10:53:05,691] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 10:53:05,694] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 10:53:05,694] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 10:54:51,661] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 10:54:51,664] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 10:54:51,665] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 10:54:51,665] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 10:54:51,665] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 10:54:51,665] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 10:59:08,935] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 10:59:08,938] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 10:59:08,939] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 10:59:08,939] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 10:59:08,940] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 10:59:08,940] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 11:00:16,930] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 11:00:16,930] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 11:00:16,930] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 11:00:16,930] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 11:00:16,930] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 11:00:16,930] [ERROR] [error] - [enterMap]nil
+[Log.java,136][2014-01-14 11:35:05,995] [ERROR] [error] - TaskProcessor.run sql str : select t1.NID, t1.NZONEID, t1.NUSERID, t1.SNICK, t1.NSEX, t1.NVOCATION, t1.NGROUP, t1.NAMINI, t1.NLEVEL, t1.NGOLD, t1.NMARK, t1.NMARK, t1.NLASTMAP, t1.NLASTMAPX, t1.NLASTMAPY, t1.NRED, t1.NBLUE, t1.NSTRENGTH, t1.NAGILITY, t1.NINTELLECT, t1.NSTAMINA, t1.NONLINESEC, t1.NEXP, t1.CTASK, t1.SFRIENDS, t1.SFOES, t1.SKILLS, t1.citems, t1.SBUFFS, t1.NUSERID, t1.SEPITHET, t1.NCOMMUNITY, t1.dregdate, t1.dlogoff, t1.ncharm, t1.ngangid, t1.njobtitle, t1.NTOTALKILLNUM, t1.NKILLNUM, t1.NRESETKILLNUMTIME, t1.SRACINGMARK, t1.NHONOR, t1.NEVIL, t1.NSNEAKATTACKNUM, t1.NLASTBATTLETIME, t1.MARRY, t1.MASTER, t1.APPRENTICE, t1.APPDELMASTER,t1.MARRYRINGTIME, t1.REMOVEMASTERTIME, t1.REMOVEAPPTIME,t1.SENEMIES, t1.MARRY, t1.MASTER, t1.APPRENTICE, t1.APPDELMASTER,t1.MARRYRINGTIME,t1.isNotFatwa from tbl_tianlong_role_srv000 t1 where t1.nzoneid = ? and t1.nuserid = ? and (t1.SRACINGMARK != 1 and t1.SRACINGMARK != 2sql params: 7, 54658, 
+[Log.java,136][2014-01-14 11:35:06,001] [ERROR] [error] - TaskProcessor.run sql params: 7, 54658, 
+[Log.java,152][2014-01-14 11:35:06,003] [ERROR] [error] - [TaskProcessor.run]
+java.sql.SQLSyntaxErrorException: ORA-00907: 缺失右括号
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:837)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:445)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:191)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:523)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:207)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForDescribe(T4CPreparedStatement.java:863)
+	at oracle.jdbc.driver.OracleStatement.executeMaybeDescribe(OracleStatement.java:1153)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1275)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3576)
+	at oracle.jdbc.driver.OraclePreparedStatement.execute(OraclePreparedStatement.java:3677)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.execute(OraclePreparedStatementWrapper.java:1374)
+	at com.jolbox.bonecp.PreparedStatementHandle.execute(PreparedStatementHandle.java:163)
+	at com.joyveb.tlol.db.TaskProcessor.run(TaskProcessor.java:77)
+[Log.java,144][2014-01-14 11:35:06,008] [ERROR] [error] - [TaskProcessor.run dbtask id: ]GET_ROLE_LIST
+[Log.java,144][2014-01-14 12:22:34,070] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 12:22:34,078] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 12:22:34,080] [ERROR] [error] - [Lua]...HNEW\lua\Interface\Protocol\Message\SubModules03.lua    line:32
+[Log.java,144][2014-01-14 12:22:34,081] [ERROR] [error] - [Lua]...\SXHNEW\lua\Model\TaskElement\Category\NpcDialog.lua    line:67
+[Log.java,144][2014-01-14 12:22:34,081] [ERROR] [error] - [Lua]...\SXHNEW\lua\Model\TaskElement\Category\NpcDialog.lua    line:79
+[Log.java,144][2014-01-14 12:22:34,082] [ERROR] [error] - [Lua]...kspace\SXHNEW\lua\Model\Task\Category\CommonTask.lua    line:279
+[Log.java,144][2014-01-14 12:22:34,083] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Npc.lua    line:82
+[Log.java,144][2014-01-14 12:22:34,084] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 12:22:34,094] [ERROR] [error] - [talkToNPC]nil
+[Log.java,144][2014-01-14 12:22:43,282] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 12:22:43,283] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 12:22:43,283] [ERROR] [error] - [Lua]...HNEW\lua\Interface\Protocol\Message\SubModules03.lua    line:32
+[Log.java,144][2014-01-14 12:22:43,283] [ERROR] [error] - [Lua]...XHNEW\lua\Model\TaskElement\Category\KillMonster.lua    line:37
+[Log.java,144][2014-01-14 12:22:43,283] [ERROR] [error] - [Lua]...XHNEW\lua\Model\TaskElement\Category\KillMonster.lua    line:14
+[Log.java,144][2014-01-14 12:22:43,284] [ERROR] [error] - [Lua]...kspace\SXHNEW\lua\Model\Task\Category\CommonTask.lua    line:279
+[Log.java,144][2014-01-14 12:22:43,284] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Npc.lua    line:82
+[Log.java,144][2014-01-14 12:22:43,287] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 12:22:43,287] [ERROR] [error] - [talkToNPC]nil
+[Log.java,144][2014-01-14 14:33:06,076] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:06,079] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:06,080] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:06,080] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:06,080] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:06,081] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:16,678] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:16,678] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:16,679] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:16,679] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:16,679] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:16,680] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:21,077] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:21,077] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:21,078] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:21,078] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:21,117] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:21,117] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:44,427] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:44,428] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:44,428] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:44,428] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:44,432] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:44,433] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:45,255] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:45,255] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:45,255] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:45,257] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:45,257] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:45,257] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:45,870] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:45,871] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:45,871] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:45,872] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:45,872] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:45,873] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:46,481] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:46,482] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:46,482] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:46,482] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:46,482] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:46,483] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:46,978] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:46,979] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:46,979] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:46,979] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:46,980] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:46,980] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:47,386] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:47,386] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:47,387] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:47,387] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:47,387] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:47,387] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:47,784] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:47,785] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:47,785] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:47,785] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:47,785] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:47,786] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:48,616] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:48,617] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:48,617] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:48,617] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:48,618] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:48,618] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:49,179] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:49,179] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:49,180] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:49,180] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:49,180] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:49,180] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:49,885] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:49,886] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:49,886] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:49,886] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:49,886] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:49,886] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:50,431] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:50,431] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:50,431] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:50,432] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:50,432] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:50,432] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:51,157] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:51,161] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:51,162] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:51,163] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:51,163] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:51,164] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:51,759] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:51,760] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:51,760] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:51,760] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:51,760] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:51,760] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:52,156] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:52,157] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:52,162] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:52,163] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:52,163] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:52,164] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:52,762] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:52,762] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:52,762] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:52,762] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:52,762] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:52,763] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:53,258] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:53,258] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:53,258] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:53,259] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:53,259] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:53,259] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:53,950] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:53,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:53,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:53,951] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:53,951] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:53,951] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:54,531] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:54,532] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:54,532] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:54,532] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:54,533] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:54,535] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:55,272] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:55,273] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:55,273] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:55,273] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:55,273] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:55,277] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:55,770] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:55,771] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:55,771] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:55,771] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:55,772] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:55,774] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:56,379] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:56,380] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:56,380] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:56,380] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:56,380] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:56,381] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:56,882] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:56,883] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:56,883] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:56,883] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:56,883] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:56,883] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:58,188] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:58,190] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:58,190] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:58,190] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:58,190] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:58,191] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:58,719] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:58,720] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:58,720] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:58,720] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:58,721] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:58,721] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:59,163] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:59,164] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:59,164] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:59,164] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:59,165] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:59,165] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:33:59,687] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:33:59,687] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:33:59,688] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:33:59,688] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:33:59,688] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:33:59,688] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:00,130] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:00,130] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:00,130] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:00,131] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:00,131] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:00,131] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:00,935] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:00,935] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:00,936] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:00,936] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:00,936] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:00,936] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:01,950] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:01,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:01,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:01,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:01,951] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:01,951] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:03,082] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:03,082] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:03,083] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:03,086] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:03,086] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:03,086] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:04,150] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:04,150] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:04,150] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:04,150] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:04,151] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:04,151] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:05,905] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:05,905] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:05,906] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:05,906] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:05,906] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:05,906] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:06,444] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:06,444] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:06,444] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:06,445] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:06,445] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:06,445] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:07,046] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:07,047] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:07,047] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:07,047] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:07,047] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:07,048] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:07,631] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:07,632] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:07,632] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:07,632] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:07,633] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:07,633] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:08,146] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:08,146] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:08,146] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:08,146] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:08,147] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:08,147] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:08,525] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:08,526] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:08,526] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:08,527] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:08,528] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:08,528] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:09,264] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:09,265] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:09,265] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:09,265] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:09,266] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:09,266] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:09,933] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:09,933] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:09,934] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:09,934] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:09,934] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:09,934] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:10,360] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:10,360] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:10,360] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:10,361] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:10,361] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:10,362] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:10,851] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:10,851] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:10,851] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:10,852] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:10,852] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:10,852] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:11,450] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:11,451] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:11,451] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:11,451] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:11,451] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:11,451] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:11,949] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:11,949] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:11,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:11,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:11,950] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:11,950] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:12,548] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:12,549] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:12,549] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:12,550] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:12,550] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:12,550] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:13,043] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:13,044] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:13,044] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:13,044] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:13,044] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:13,045] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:13,556] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:13,557] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:13,557] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:13,558] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:13,558] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:13,558] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:14,127] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:14,128] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:14,128] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:14,128] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:14,129] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:14,129] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:14,980] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:14,980] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:14,981] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:14,981] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:14,981] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:14,981] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:15,488] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:15,488] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:15,489] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:15,490] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:15,490] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:15,491] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:16,198] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:16,198] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:16,198] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:16,199] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:16,199] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:16,200] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:16,617] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:16,617] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:16,621] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:16,622] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:16,622] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:16,622] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:17,115] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:17,116] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:17,116] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:17,116] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:17,116] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:17,117] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:17,612] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:17,612] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:17,613] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:17,615] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:17,615] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:17,616] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:18,216] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:18,217] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:18,217] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:18,218] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:18,218] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:18,218] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:18,610] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:18,610] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:18,611] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:18,611] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:18,612] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:18,612] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:19,159] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:19,160] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:19,161] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:19,162] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:19,163] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:19,163] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:19,582] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:19,582] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:19,583] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:19,583] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:19,584] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:19,584] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:19,920] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:19,920] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:19,920] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:19,921] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:19,921] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:19,921] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:20,447] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:20,447] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:20,447] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:20,447] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:20,448] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:20,448] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:20,954] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:20,954] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:20,955] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:20,955] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:20,955] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:20,955] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:21,771] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:21,772] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:21,772] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:21,772] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:21,773] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:21,773] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:22,373] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:22,374] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:22,375] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:22,375] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:22,375] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:22,383] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:22,871] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:22,871] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:22,871] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:22,872] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:22,872] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:22,872] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:23,467] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:23,468] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:23,468] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:23,468] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:23,469] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:23,469] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:24,154] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:24,155] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:24,157] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:24,158] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:24,158] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:24,158] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:24,906] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:24,907] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:24,907] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:24,908] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:24,908] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:24,908] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:25,351] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:25,351] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:25,351] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:25,352] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:25,352] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:25,352] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:25,900] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:25,901] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:25,901] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:25,901] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:25,902] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:25,902] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:26,497] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:26,498] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:26,498] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:26,498] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:26,498] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:26,499] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:27,032] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:27,032] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:27,033] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:27,033] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:27,033] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:27,033] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:27,660] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:27,660] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:27,661] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:27,661] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:27,661] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:27,661] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:28,395] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:28,396] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:28,396] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:28,396] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:28,396] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:28,396] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:29,122] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:29,123] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:29,123] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:29,124] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:29,124] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:29,124] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:29,743] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:29,744] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:29,744] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:29,744] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:29,745] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:29,745] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:30,413] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:30,413] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:30,414] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:30,414] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:30,414] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:30,415] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:31,141] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:31,141] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:31,141] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:31,142] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:31,142] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:31,142] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:31,573] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:31,573] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:31,573] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:31,573] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:31,579] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:31,579] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:32,269] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:32,269] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:32,269] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:32,270] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:32,270] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:32,270] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:32,970] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:32,971] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:32,972] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:32,973] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:32,973] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:32,973] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:34:33,492] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:34:33,493] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:34:33,493] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:34:33,493] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:34:33,493] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:34:33,494] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:36:04,921] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:36:04,921] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:36:04,921] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:36:04,922] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:36:04,922] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:36:04,922] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 14:36:35,699] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 14:36:35,700] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua    line:39
+[Log.java,144][2014-01-14 14:36:35,701] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:67
+[Log.java,144][2014-01-14 14:36:35,701] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Map.lua    line:119
+[Log.java,144][2014-01-14 14:36:35,701] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Model\NPC\NPC.lua:39: attempt to compare number with nil
+[Log.java,144][2014-01-14 14:36:35,702] [ERROR] [error] - [enterMap]nil
+[Log.java,144][2014-01-14 15:07:46,321] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 15:07:46,331] [ERROR] [error] - [Lua][C]    line:-1
+[Log.java,144][2014-01-14 15:07:46,332] [ERROR] [error] - [Lua]...HNEW\lua\Interface\Protocol\Message\SubModules03.lua    line:22
+[Log.java,144][2014-01-14 15:07:46,349] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:58
+[Log.java,144][2014-01-14 15:07:46,351] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:37
+[Log.java,144][2014-01-14 15:07:46,352] [ERROR] [error] - [Lua]...:\eclipse\workspace\SXHNEW\lua\Interface\Command.lua    line:23
+[Log.java,144][2014-01-14 15:07:46,352] [ERROR] [error] - [Lua]java.nio.BufferOverflowException
+[Log.java,144][2014-01-14 15:07:46,365] [ERROR] [error] - [parseCommand]nil
+[Log.java,144][2014-01-14 15:12:23,315] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-14 15:12:23,319] [ERROR] [error] - [Lua][C]    line:-1
+[Log.java,144][2014-01-14 15:12:23,320] [ERROR] [error] - [Lua]...HNEW\lua\Interface\Protocol\Message\SubModules03.lua    line:22
+[Log.java,144][2014-01-14 15:12:23,321] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:58
+[Log.java,144][2014-01-14 15:12:23,321] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:37
+[Log.java,144][2014-01-14 15:12:23,321] [ERROR] [error] - [Lua]...:\eclipse\workspace\SXHNEW\lua\Interface\Command.lua    line:23
+[Log.java,144][2014-01-14 15:12:23,322] [ERROR] [error] - [Lua]java.nio.BufferOverflowException
+[Log.java,144][2014-01-14 15:12:23,322] [ERROR] [error] - [parseCommand]nil

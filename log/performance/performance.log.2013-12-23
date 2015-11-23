@@ -1,0 +1,17 @@
+[2013-12-23 14:06:22,996] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 288
+[2013-12-23 14:06:47,028] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23723
+[2013-12-23 14:07:15,118] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 218
+[2013-12-23 14:07:38,792] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23386
+[2013-12-23 14:09:10,808] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 276
+[2013-12-23 14:09:34,312] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23300
+[2013-12-23 14:10:11,015] [INFO] [performance] - [Processor.run]265
+[2013-12-23 14:10:17,249] [INFO] [performance] - [Processor.run]379
+[2013-12-23 14:10:18,007] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]162
+[2013-12-23 14:10:18,007] [INFO] [performance] - [Processor.run]162
+[2013-12-23 14:10:51,078] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]38
+[2013-12-23 14:14:56,709] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 207
+[2013-12-23 14:15:20,305] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23292
+[2013-12-23 14:15:45,774] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]156
+[2013-12-23 14:15:45,774] [INFO] [performance] - [Processor.run]156
+[2013-12-23 14:18:39,956] [INFO] [performance] - [MsgID_Item_Get_Info][54658][108015][喀举咯途]38
+[2013-12-23 14:39:38,657] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 223

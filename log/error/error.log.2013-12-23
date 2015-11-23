@@ -1,0 +1,12 @@
+[Log.java,144][2013-12-23 14:10:33,241] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2013-12-23 14:10:33,251] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua    line:5
+[Log.java,144][2013-12-23 14:10:33,252] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua:5: attempt to index local 'area' (a nil value)
+[Log.java,144][2013-12-23 14:10:33,252] [ERROR] [error] - [GetTransMaps]nil
+[Log.java,144][2013-12-23 14:10:35,517] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2013-12-23 14:10:35,518] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua    line:5
+[Log.java,144][2013-12-23 14:10:35,519] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua:5: attempt to index local 'area' (a nil value)
+[Log.java,144][2013-12-23 14:10:35,519] [ERROR] [error] - [GetTransMaps]nil
+[Log.java,144][2013-12-23 14:10:37,813] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2013-12-23 14:10:37,814] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua    line:5
+[Log.java,144][2013-12-23 14:10:37,814] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Trans.lua:5: attempt to index local 'area' (a nil value)
+[Log.java,144][2013-12-23 14:10:37,814] [ERROR] [error] - [GetTransMaps]nil

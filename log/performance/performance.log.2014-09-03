@@ -1,0 +1,7 @@
+[2014-09-03 10:44:09,084] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 254
+[2014-09-03 10:44:32,771] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23432
+[2014-09-03 10:45:59,820] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]240
+[2014-09-03 10:45:59,820] [INFO] [performance] - [Processor.run]240
+[2014-09-03 10:55:33,662] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]39
+[2014-09-03 10:56:16,828] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]35
+[2014-09-03 11:31:49,172] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##update Tbl_Tianlong_Mail_srv000 t set IS_PAYMAIL = ?, IS_READ = ?, SENDER_ID = ?, RECEIVER_ID = ?, SUBJECT = ?, CONTENT = ?, ATTACHMENT = ?, GOLD = ?, PAY_GOLD = ?, MAIL_LEVEL = ?where t.id = ?## ] 138

@@ -1,0 +1,19 @@
+[2014-08-21 20:02:50,747] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 270
+[2014-08-21 20:03:14,903] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23748
+[2014-08-21 20:09:23,864] [INFO] [performance] - [Processor.run]358
+[2014-08-21 20:09:27,436] [INFO] [performance] - [Processor.run]552
+[2014-08-21 20:09:28,652] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]706
+[2014-08-21 20:09:28,653] [INFO] [performance] - [Processor.run]707
+[2014-08-21 20:09:54,931] [INFO] [performance] - [Processor.run]151
+[2014-08-21 20:16:36,919] [INFO] [performance] - [MsgID_Fight_With][54658][108015][喀举咯途]41
+[2014-08-21 20:16:38,237] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]65
+[2014-08-21 20:16:39,441] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]74
+[2014-08-21 20:31:13,938] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 204
+[2014-08-21 20:31:37,572] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23338
+[2014-08-21 20:32:05,646] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]594
+[2014-08-21 20:32:05,647] [INFO] [performance] - [Processor.run]595
+[2014-08-21 20:33:25,805] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 277
+[2014-08-21 20:33:49,319] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23342
+[2014-08-21 20:34:12,256] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##insert into Tbl_Tianlong_Mail_srv000 (ID, IS_PAYMAIL, IS_READ, SENDER_ID, RECEIVER_ID, SUBJECT, CONTENT, ATTACHMENT, GOLD, PAY_GOLD, SEND_TIME, MAIL_LEVEL, SENDER_NAME) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)## ] 122
+[2014-08-21 20:34:13,100] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]523
+[2014-08-21 20:34:13,100] [INFO] [performance] - [Processor.run]523

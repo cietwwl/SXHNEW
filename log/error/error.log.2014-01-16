@@ -1,0 +1,30 @@
+[Log.java,144][2014-01-16 14:42:16,244] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-16 14:42:16,264] [ERROR] [error] - [Lua][C]    line:-1
+[Log.java,144][2014-01-16 14:42:16,265] [ERROR] [error] - [Lua]...workspace\SXHNEW\lua\Model\Task\Category\ZhuanFu.lua    line:48
+[Log.java,144][2014-01-16 14:42:16,265] [ERROR] [error] - [Lua]...workspace\SXHNEW\lua\Model\Task\Category\ZhuanFu.lua    line:29
+[Log.java,144][2014-01-16 14:42:16,266] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Npc.lua    line:82
+[Log.java,144][2014-01-16 14:42:16,266] [ERROR] [error] - [Lua]0
+[Log.java,144][2014-01-16 14:42:16,293] [ERROR] [error] - [talkToNPC]nil
+[Log.java,144][2014-01-16 14:44:06,202] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-16 14:44:06,204] [ERROR] [error] - [Lua][C]    line:-1
+[Log.java,144][2014-01-16 14:44:06,204] [ERROR] [error] - [Lua]...workspace\SXHNEW\lua\Model\Task\Category\ZhuanFu.lua    line:48
+[Log.java,144][2014-01-16 14:44:06,205] [ERROR] [error] - [Lua]...workspace\SXHNEW\lua\Model\Task\Category\ZhuanFu.lua    line:29
+[Log.java,144][2014-01-16 14:44:06,205] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Npc.lua    line:82
+[Log.java,144][2014-01-16 14:44:06,205] [ERROR] [error] - [Lua]0
+[Log.java,144][2014-01-16 14:44:06,206] [ERROR] [error] - [talkToNPC]nil
+[Log.java,144][2014-01-16 14:50:00,023] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-16 14:50:00,028] [ERROR] [error] - [Lua][C]    line:-1
+[Log.java,144][2014-01-16 14:50:00,029] [ERROR] [error] - [Lua]...HNEW\lua\Interface\Protocol\Message\SubModules03.lua    line:22
+[Log.java,144][2014-01-16 14:50:00,046] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:58
+[Log.java,144][2014-01-16 14:50:00,046] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:37
+[Log.java,144][2014-01-16 14:50:00,047] [ERROR] [error] - [Lua]...:\eclipse\workspace\SXHNEW\lua\Interface\Command.lua    line:23
+[Log.java,144][2014-01-16 14:50:00,047] [ERROR] [error] - [Lua]java.nio.BufferOverflowException
+[Log.java,144][2014-01-16 14:50:00,048] [ERROR] [error] - [parseCommand]nil
+[Log.java,144][2014-01-16 09:57:34,685] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-01-16 09:57:34,688] [ERROR] [error] - [Lua][C]    line:-1
+[Log.java,144][2014-01-16 09:57:34,708] [ERROR] [error] - [Lua]...HNEW\lua\Interface\Protocol\Message\SubModules03.lua    line:22
+[Log.java,144][2014-01-16 09:57:34,709] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:58
+[Log.java,144][2014-01-16 09:57:34,709] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:37
+[Log.java,144][2014-01-16 09:57:34,709] [ERROR] [error] - [Lua]...:\eclipse\workspace\SXHNEW\lua\Interface\Command.lua    line:23
+[Log.java,144][2014-01-16 09:57:34,709] [ERROR] [error] - [Lua]java.nio.BufferOverflowException
+[Log.java,144][2014-01-16 09:57:34,710] [ERROR] [error] - [parseCommand]nil

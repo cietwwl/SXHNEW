@@ -1,0 +1,49 @@
+[2014-10-24 10:35:30,576] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 282
+[2014-10-24 10:35:54,533] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23648
+[2014-10-24 10:38:26,980] [INFO] [performance] - [Processor.run]299
+[2014-10-24 10:38:30,620] [INFO] [performance] - [Processor.run]372
+[2014-10-24 10:38:30,646] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select t1.*, t2.snick from tbl_tianlong_mail_srv000 t1, tbl_tianlong_role_srv000 t2 where t1.receiver_id = t2.nid and t1.is_paymail = '1'  and t1.sender_id = ?## ] 124
+[2014-10-24 10:38:30,722] [INFO] [performance] - [Processor.run]101
+[2014-10-24 10:38:30,742] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select t1.* from tbl_tianlong_mail_srv000 t1 where t1.receiver_id = ? order by t1.SEND_TIME desc## ] 221
+[2014-10-24 10:38:30,954] [INFO] [performance] - [Processor.run]130
+[2014-10-24 10:38:32,091] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]897
+[2014-10-24 10:38:32,091] [INFO] [performance] - [Processor.run]898
+[2014-10-24 10:38:32,150] [INFO] [performance] - [MsgID_Fee_Info][54658][108015][喀举咯途]58
+[2014-10-24 10:38:32,234] [INFO] [performance] - [MsgID_Special_Train_Resp][54658][108015][喀举咯途]43
+[2014-10-24 10:38:36,121] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]49
+[2014-10-24 10:39:20,127] [INFO] [performance] - [MsgID_Get_TransMaps][54658][108015][喀举咯途]31
+[2014-10-24 10:46:25,700] [INFO] [performance] - [MsgID_Task_List][54658][108015][喀举咯途]91
+[2014-10-24 10:47:10,807] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]33
+[2014-10-24 10:47:56,463] [INFO] [performance] - [MsgID_Fight_With][54658][108015][喀举咯途]53
+[2014-10-24 10:48:01,929] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]50
+[2014-10-24 10:48:11,061] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]56
+[2014-10-24 10:48:27,322] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]58
+[2014-10-24 11:10:32,658] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 285
+[2014-10-24 11:10:56,280] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23388
+[2014-10-24 11:11:23,898] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]254
+[2014-10-24 11:11:23,898] [INFO] [performance] - [Processor.run]254
+[2014-10-24 11:17:40,875] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]33
+[2014-10-24 11:46:57,848] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]130
+[2014-10-24 11:46:57,848] [INFO] [performance] - [Processor.run]129
+[2014-10-24 11:46:59,856] [INFO] [performance] - [Processor.run]129
+[2014-10-24 12:10:38,389] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]34
+[2014-10-24 12:13:14,704] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##insert into tbl_tianlong_logging_srv000(nid, nuid, nrid, dlogon, dlogoff) values(seq_tianlong_logging.nextval, ?, ?, ?, ?)## ] 233
+[2014-10-24 12:13:15,917] [INFO] [performance] - [Processor.run]1649
+[2014-10-24 12:13:38,980] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select t1.NID, t1.NZONEID, t1.NUSERID, t1.SNICK, t1.NSEX, t1.NVOCATION, t1.NGROUP, t1.NAMINI, t1.NLEVEL, t1.NGOLD, t1.NMARK, t1.NMARK, t1.NLASTMAP, t1.NLASTMAPX, t1.NLASTMAPY, t1.NRED, t1.NBLUE, t1.NSTRENGTH, t1.NAGILITY, t1.NINTELLECT, t1.NSTAMINA, t1.NONLINESEC, t1.NEXP, t1.CTASK, t1.SFRIENDS, t1.SFOES, t1.SKILLS, t1.citems, t1.SBUFFS, t1.NUSERID, t1.SEPITHET, t1.NCOMMUNITY, t1.dregdate, t1.dlogoff, t1.ncharm, t1.ngangid, t1.njobtitle, t1.NTOTALKILLNUM, t1.NKILLNUM, t1.NRESETKILLNUMTIME, t1.SRACINGMARK, t1.NHONOR, t1.NEVIL, t1.NSNEAKATTACKNUM, t1.NLASTBATTLETIME, t1.MARRY, t1.MASTER, t1.APPRENTICE, t1.APPDELMASTER,t1.MARRYRINGTIME, t1.REMOVEMASTERTIME, t1.REMOVEAPPTIME,t1.SENEMIES, t1.MARRY, t1.MASTER, t1.APPRENTICE, t1.APPDELMASTER,t1.MARRYRINGTIME,t1.isNotFatwa from tbl_tianlong_role_srv000 t1 where t1.nzoneid = ? and t1.nuserid = ? and (t1.SRACINGMARK=0)## ] 108
+[2014-10-24 12:13:49,155] [INFO] [performance] - [Processor.run]603
+[2014-10-24 12:13:49,695] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]143
+[2014-10-24 12:13:49,695] [INFO] [performance] - [Processor.run]143
+[2014-10-24 12:14:03,873] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]46
+[2014-10-24 12:14:05,861] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]152
+[2014-10-24 12:14:05,861] [INFO] [performance] - [Processor.run]152
+[2014-10-24 12:14:14,981] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]32
+[2014-10-24 12:14:24,156] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]65
+[2014-10-24 12:14:31,065] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]33
+[2014-10-24 12:14:44,575] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]37
+[2014-10-24 12:14:54,171] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]31
+[2014-10-24 12:15:05,398] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]43
+[2014-10-24 12:15:27,252] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]82
+[2014-10-24 12:15:29,674] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]66
+[2014-10-24 12:15:31,559] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]33
+[2014-10-24 12:15:50,077] [INFO] [performance] - [MsgID_Fight_Choose][54658][108015][喀举咯途]63
+[2014-10-24 12:21:47,048] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##insert into tbl_tianlong_logging_srv000(nid, nuid, nrid, dlogon, dlogoff) values(seq_tianlong_logging.nextval, ?, ?, ?, ?)## ] 303

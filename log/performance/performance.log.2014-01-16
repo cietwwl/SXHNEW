@@ -1,0 +1,46 @@
+[2014-01-16 12:22:16,098] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 349
+[2014-01-16 12:22:39,761] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23455
+[2014-01-16 12:31:46,791] [INFO] [performance] - [Processor.run]343
+[2014-01-16 12:31:53,966] [INFO] [performance] - [Processor.run]554
+[2014-01-16 12:31:54,097] [INFO] [performance] - [Processor.run]131
+[2014-01-16 12:31:55,550] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]1106
+[2014-01-16 12:31:55,551] [INFO] [performance] - [Processor.run]1107
+[2014-01-16 12:31:59,038] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]31
+[2014-01-16 12:49:53,735] [INFO] [performance] - [writeBackDB][54658][108015][喀举咯途]48
+[2014-01-16 13:25:29,382] [INFO] [performance] - [Processor.run]114
+[2014-01-16 13:26:27,584] [INFO] [performance] - [Processor.run]110
+[2014-01-16 13:55:15,696] [INFO] [performance] - [Processor.run]115
+[2014-01-16 14:13:27,273] [INFO] [performance] - [Processor.run]110
+[2014-01-16 14:19:15,526] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 220
+[2014-01-16 14:19:39,406] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23676
+[2014-01-16 14:34:34,739] [INFO] [performance] - [Processor.run]107
+[2014-01-16 14:40:55,081] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 283
+[2014-01-16 14:41:18,774] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23456
+[2014-01-16 14:41:42,531] [INFO] [performance] - [Processor.run]113
+[2014-01-16 14:41:46,945] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]180
+[2014-01-16 14:41:46,945] [INFO] [performance] - [Processor.run]180
+[2014-01-16 14:42:01,738] [INFO] [performance] - [Processor.run]114
+[2014-01-16 14:42:16,293] [INFO] [performance] - [MsgID_Talk_To_Npc][54658][108015][喀举咯途]49
+[2014-01-16 14:45:27,371] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 258
+[2014-01-16 14:45:51,207] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23567
+[2014-01-16 14:46:21,169] [INFO] [performance] - [Processor.run]102
+[2014-01-16 14:46:57,232] [INFO] [performance] - [MsgID_Enter_Map][54658][108015][喀举咯途]339
+[2014-01-16 14:46:57,233] [INFO] [performance] - [Processor.run]339
+[2014-01-16 14:52:48,195] [INFO] [performance] - [Processor.run]226
+[2014-01-16 15:02:41,207] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]57
+[2014-01-16 15:05:50,730] [INFO] [performance] - [MsgID_Manage_Move][54658][108015][喀举咯途]46
+[2014-01-16 15:07:15,167] [INFO] [performance] - [MsgID_Manage_Move][55085][108154][暗土破]37
+[2014-01-16 09:56:35,553] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nuid_srv000 from TBL_TIANLONG_UID## ] 241
+[2014-01-16 09:56:59,148] [INFO] [performance] - [TaskProcessor.run][ DB sqlStr: ##select nid, sname, dcreated, nlevel, sbulletin, ntribute, nleader, sviceleader, spresbyter, smembers, STRIBUTESTAT from tbl_tianlong_gang_srv000## ] 23388
+[2014-01-16 09:58:59,129] [INFO] [performance] - [MsgID_Enter_Map][131023][108155][啊1]772
+[2014-01-16 09:58:59,129] [INFO] [performance] - [Processor.run]772
+[2014-01-16 09:59:13,344] [INFO] [performance] - [MsgID_Task_List][131023][108155][啊1]79
+[2014-01-16 17:41:20,850] [INFO] [performance] - [Processor.run]226
+[2014-01-16 17:58:33,374] [INFO] [performance] - [Processor.run]106
+[2014-01-16 17:59:57,953] [INFO] [performance] - [Processor.run]176
+[2014-01-16 18:14:04,656] [INFO] [performance] - [Processor.run]101
+[2014-01-16 18:16:15,402] [INFO] [performance] - [Processor.run]135
+[2014-01-16 18:52:28,445] [INFO] [performance] - [Processor.run]189
+[2014-01-16 19:20:29,460] [INFO] [performance] - [Processor.run]102
+[2014-01-16 19:30:07,125] [INFO] [performance] - [Processor.run]113
+[2014-01-16 19:32:19,542] [INFO] [performance] - [Processor.run]229

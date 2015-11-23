@@ -1,0 +1,26 @@
+[Log.java,144][2014-02-25 13:06:37,929] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-02-25 13:06:37,937] [ERROR] [error] - [Lua][C]    line:-1
+[Log.java,144][2014-02-25 13:06:37,938] [ERROR] [error] - [Lua]...HNEW\lua\Interface\Protocol\Message\SubModules03.lua    line:22
+[Log.java,144][2014-02-25 13:06:37,939] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:58
+[Log.java,144][2014-02-25 13:06:37,941] [ERROR] [error] - [Lua]...orkspace\SXHNEW\lua\Model\CommandParsing\Parsing.lua    line:37
+[Log.java,144][2014-02-25 13:06:37,942] [ERROR] [error] - [Lua]...:\eclipse\workspace\SXHNEW\lua\Interface\Command.lua    line:23
+[Log.java,144][2014-02-25 13:06:37,943] [ERROR] [error] - [Lua]java.nio.BufferOverflowException
+[Log.java,144][2014-02-25 13:06:38,045] [ERROR] [error] - [parseCommand]nil
+[Log.java,152][2014-02-25 13:35:38,642] [ERROR] [error] - [检查最后偷袭时间]
+java.lang.NullPointerException
+	at com.joyveb.tlol.role.RoleBean.checkLastBattleTime(RoleBean.java:2326)
+	at com.joyveb.tlol.role.RoleJavaFunc$79.execute(RoleJavaFunc.java:1060)
+	at org.keplerproject.luajava.LuaState._pcall(Native Method)
+	at org.keplerproject.luajava.LuaState.pcall(LuaState.java:593)
+	at com.joyveb.tlol.LuaService.callLua(LuaService.java:445)
+	at com.joyveb.tlol.LuaService.callLuaFunction(LuaService.java:574)
+	at com.joyveb.tlol.user.UserAgent.getRoleInfo(UserAgent.java:663)
+	at com.joyveb.tlol.user.UserAgent.processCommand(UserAgent.java:77)
+	at com.joyveb.tlol.ProcessCenter$Processor.processUnlogUserComingMsg(ProcessCenter.java:197)
+	at com.joyveb.tlol.ProcessCenter$Processor.unloginPlayerHandler(ProcessCenter.java:136)
+	at com.joyveb.tlol.ProcessCenter$Processor.run(ProcessCenter.java:163)
+[Log.java,144][2014-02-25 13:35:38,686] [ERROR] [error] - [Lua]调用栈信息：
+[Log.java,144][2014-02-25 13:35:38,693] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Task.lua    line:120
+[Log.java,144][2014-02-25 13:35:38,693] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Role.lua    line:14
+[Log.java,144][2014-02-25 13:35:38,694] [ERROR] [error] - [Lua]D:\eclipse\workspace\SXHNEW\lua\Interface\Task.lua:120: attempt to call method 'self_check' (a nil value)
+[Log.java,144][2014-02-25 13:35:38,694] [ERROR] [error] - [roleOnline]nil
